@@ -1,0 +1,14 @@
+bin/stpjaHNU filter=lfs diff=lfs merge=lfs -text
+bin/clang-check filter=lfs diff=lfs merge=lfs -text
+bin/llc filter=lfs diff=lfs merge=lfs -text
+bin/clang-extdef-mapping filter=lfs diff=lfs merge=lfs -text
+bin/bugpoint filter=lfs diff=lfs merge=lfs -text
+bin/lld filter=lfs diff=lfs merge=lfs -text
+bin/clang-nvlink-wrapper filter=lfs diff=lfs merge=lfs -text
+bin/clang-repl filter=lfs diff=lfs merge=lfs -text
+bin/llvm-lto filter=lfs diff=lfs merge=lfs -text
+bin/clang-sycl-linker filter=lfs diff=lfs merge=lfs -text
+bin/clang-linker-wrapper filter=lfs diff=lfs merge=lfs -text
+bin/llvm-c-test filter=lfs diff=lfs merge=lfs -text
+bin/clang-22 filter=lfs diff=lfs merge=lfs -text
+bin/c-index-test filter=lfs diff=lfs merge=lfs -text
