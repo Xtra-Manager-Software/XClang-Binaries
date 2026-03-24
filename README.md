@@ -1,4 +1,4 @@
-# XClang-Binaries
+# XClang
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 [![LLVM](https://img.shields.io/badge/Based%20on-LLVM%20Project-orange.svg)](https://llvm.org/)
