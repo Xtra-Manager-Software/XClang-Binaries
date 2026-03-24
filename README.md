@@ -83,7 +83,7 @@ clang --target=aarch64-linux-android -o output program.c
 
 - Linux (x86_64 or ARM64)
 - Minimum 2GB RAM
-- 500MB free disk space
+- 2GB free disk space
 
 ## License
 
