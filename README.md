@@ -22,7 +22,7 @@ XClang is a public repository providing pre-compiled binaries of the Clang compi
 ## Package Contents
 
 ```
-XClang-22.tar.gz          # Compiler binary archive
+XClang-ver.tar.gz          # Compiler binary archive
 ├── bin/                  # Executable binaries
 ├── include/              # Header files
 │   └── clang/           # Clang-specific headers
